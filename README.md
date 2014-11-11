@@ -22,8 +22,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Usage instructions here
+Add the following to your `app/assets/javascripts/application.js`:
 
+//= require three
+
+That's it. You're good to go with threejs on your rails app!
 
 ## Versions
 
