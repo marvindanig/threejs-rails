@@ -1,7 +1,7 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'threejs/rails/version'
+require 'threejs-rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "threejs-rails"
@@ -20,4 +20,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
+
+  gem.add_dependency("railties", ">= 3.0.0")
 end

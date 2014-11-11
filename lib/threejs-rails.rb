@@ -1,4 +1,3 @@
-require 'threejs/rails/version'
 require 'rails/engine'
 
 module Threejs

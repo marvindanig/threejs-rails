@@ -9,7 +9,7 @@ This gem makes it easy to use Threejs (REVISION 69) with Rails 4+ assets pipelin
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'threejs-rails'
+gem 'threejs-rails', git: 'git://github.com/marvindanig/threejs-rails.git'
 ```
 
 And then execute:
@@ -32,7 +32,7 @@ TODO: Semantic versioning
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/threejs-rails/fork )
+1. Fork it ( https://github.com/marvindanig/threejs-rails/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
