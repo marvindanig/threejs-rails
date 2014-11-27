@@ -40,4 +40,4 @@ TODO: Semantic versioning
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
-6. Contact me if I don't respond within 24 hours.
+6. <a href = "mailto:marvin@bubbl.in">Contact me</a> if I don't respond within 24 hours.
