@@ -2,7 +2,7 @@
 
 [Threejs](http://threejs.org/) is an awesome lightweight JavaScript 3D library that makes WebGL - 3D in the browser - very easy([documentation](http://threejs.org/docs/)).
 
-This gem makes it easy to use Threejs (REVISION 69) with Rails 4+ assets pipeline.
+This gem makes it easy to use Threejs (REVISION 70) with Rails 4+ assets pipeline.
 
 ## Installation
 
