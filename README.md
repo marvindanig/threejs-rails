@@ -1,8 +1,8 @@
 # Threejs::Rails
 
-[Threejs](http://threejs.org/) is an awesome lightweight JavaScript 3D library that makes WebGL - 3D in the browser - very easy([documentation](http://threejs.org/docs/)).
+[Threejs](http://threejs.org/) is an awesome 3D `JavaScript` library that it easy to play with WebGL, i.e. 3D objects in the browser. See [documentation](http://threejs.org/docs/).
 
-Rubygem for `threejs-r73` for Rails 4+ via asset-pipeline.
+This rubygem will add `threejs` `r87` in your rails app via the asset-pipeline:
 
 ## Installation
 
@@ -28,11 +28,6 @@ Add the following to your `app/assets/javascripts/application.js`:
 
 That's it. You're good to go with threejs on your rails app!
 
-## Versions
-
-TODO: SemVer, may be.
-
-
 ## Contributing
 
 1. Fork it ( https://github.com/marvindanig/threejs-rails/fork )
@@ -40,4 +35,4 @@ TODO: SemVer, may be.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
-6. <a href = "mailto:marvin@bubbl.in">Contact me</a> if I don't respond within 24 hours.
+6. <a href = "mailto:marvin@marvindanig.com">Contact me</a> if I don't respond within 24 hours.
