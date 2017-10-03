@@ -1,8 +1,8 @@
 # Threejs::Rails
 
-[Threejs](http://threejs.org/) is an awesome 3D `JavaScript` library that it easy to play with WebGL, i.e. 3D objects in the browser. See [documentation](http://threejs.org/docs/).
+[Threejs](http://threejs.org/) is an awesome 3D `javascript` library that makes it easy to play with WebGL, i.e. 3D objects, in the browser. Refer [documentation](http://threejs.org/docs/).
 
-This rubygem will add `threejs` `r87` in your rails app via the asset-pipeline:
+This gem will add `threejs` `r87` to your rails app via the asset-pipeline:
 
 ## Installation
 
@@ -26,7 +26,7 @@ Add the following to your `app/assets/javascripts/application.js`:
 
 //= require three
 
-That's it. You're good to go with threejs on your rails app!
+You're good to go with threejs on your rails app!
 
 ## Contributing
 
