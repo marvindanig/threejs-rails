@@ -2,7 +2,7 @@
 
 [Threejs](http://threejs.org/) is an awesome 3D `javascript` library that makes it easy to play with WebGL, i.e. 3D objects, in the browser. Refer [documentation](http://threejs.org/docs/).
 
-This gem will add `threejs` `r87` to your rails app via the asset-pipeline:
+This gem will add `threejs` `r89` to your rails app via the asset-pipeline:
 
 ## Installation
 

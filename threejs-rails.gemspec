@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Marvin Danig"]
   spec.email         = ["marvin@bubbl.in"]
   spec.summary       = %q{Three.js on Rails}
-  spec.description   = %q{Bundled three.js v87.0 for rails apps}
+  spec.description   = %q{Bundled three.js v89.0 for rails apps}
   spec.homepage      = "https://github.com/marvindanig/threejs-rails.git"
   spec.license       = "MIT"
 
